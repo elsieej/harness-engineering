@@ -41,11 +41,16 @@ Nếu bạn học nhanh hơn (2–3 buổi/tuần, mỗi buổi 1–2 tiếng), 
 ```
 vn-hoc-harness/
 ├── 00-LO-TRINH.md          <- bạn đang ở đây
-├── bai-giang/              <- 12 file tóm tắt + bài tập + luyện prompt
+├── bai-giang/              <- 12 file tóm tắt + đề bài tập + luyện prompt
 ├── du-an/README.md         <- tổng quan 6 dự án thực hành, cách chạy
-└── bai-tap-prompt/
-    ├── README.md           <- danh sách toàn bộ 12 bài luyện prompt
-    └── answers/            <- nơi bạn viết câu trả lời để nhờ review
+├── bai-tap-prompt/
+│   ├── README.md           <- danh sách toàn bộ 12 bài luyện prompt
+│   └── answers/            <- nơi bạn viết câu trả lời để nhờ review
+└── thuc-hanh/              <- KHÔNG GIAN LÀM BÀI: bài tập + nhật ký dự án + rubric tự chấm
+    ├── README.md           <- quy trình từng bước, chi tiết hơn phần dưới đây
+    ├── DANH-GIA.md          <- rubric tự chấm theo từng bài giảng/dự án
+    ├── bai-giang/lecture-01/bai-tap.md ...  <- viết câu trả lời phần "Bài tập"
+    └── du-an/project-01/nhat-ky.md ...      <- nhật ký so sánh baseline vs harness
 ```
 
-**Bắt đầu ngay**: mở `bai-giang/lecture-01.md`, đọc phần tóm tắt (5-10 phút), làm bài tập, rồi mở `bai-tap-prompt/README.md` để làm bài luyện prompt của bài 1 — viết câu trả lời vào `bai-tap-prompt/answers/lecture-01.md` rồi nhắn cho Claude trong phiên chat để được review.
+**Bắt đầu ngay**: mở `bai-giang/lecture-01.md`, đọc phần tóm tắt (5-10 phút). Rồi mở `thuc-hanh/README.md` để theo đúng quy trình 6 bước: làm bài tập → làm luyện prompt → tự chấm theo `thuc-hanh/DANH-GIA.md` → nhờ Claude review → sửa → đánh dấu hoàn thành ở bảng trên.
