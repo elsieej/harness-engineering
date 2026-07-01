@@ -1,6 +1,6 @@
 # Bài 10. Chỉ chạy toàn bộ pipeline mới tính là xác minh thật sự
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-10-why-end-to-end-testing-changes-results/)
 
 ## Tóm tắt
 

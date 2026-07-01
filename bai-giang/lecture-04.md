@@ -1,6 +1,6 @@
 # Bài 04. Chia hướng dẫn ra thành nhiều tệp
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-04-why-one-giant-instruction-file-fails/)
 
 ## Tóm tắt
 

@@ -1,6 +1,6 @@
 # Bài 01. Mô hình mạnh không có nghĩa là thực thi đáng tin cậy
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-01-why-capable-agents-still-fail/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-01-why-capable-agents-still-fail/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-01-why-capable-agents-still-fail/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-01-why-capable-agents-still-fail/)
 
 ## Tóm tắt
 

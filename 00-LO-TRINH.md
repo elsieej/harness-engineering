@@ -1,6 +1,6 @@
 # Lộ trình học Harness Engineering (bản tóm tắt tiếng Việt)
 
-> Bản dịch chính thức đầy đủ (12 bài giảng + 6 dự án, do nhóm Walking Labs dịch) đã nằm sẵn ở `learn-harness-engineering/docs/vi/` (đã clone về máy ở thư mục cha của thư mục này), và cũng xem online tại https://walkinglabs.github.io/learn-harness-engineering/vi/. Tài liệu bạn đang đọc **không thay thế** bản gốc, nó chỉ là bản tóm tắt cá nhân kèm bài tập và bài luyện prompt, để bạn học nhanh và thực hành có phản hồi.
+> Bản dịch chính thức đầy đủ (12 bài giảng + 6 dự án, do nhóm Walking Labs dịch) nằm ở repo gốc: [github.com/walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering/tree/main/docs/vi), và cũng xem online tại https://walkinglabs.github.io/learn-harness-engineering/vi/. Tài liệu bạn đang đọc **không thay thế** bản gốc, nó chỉ là bản tóm tắt cá nhân kèm bài tập và bài luyện prompt, để bạn học nhanh và thực hành có phản hồi.
 
 ## Ý tưởng cốt lõi của cả khoá học
 

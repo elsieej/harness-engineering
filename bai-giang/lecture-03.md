@@ -1,6 +1,6 @@
 # Bài 03. Biến kho lưu trữ thành nguồn sự thật duy nhất
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-03-why-the-repository-must-become-the-system-of-record/)
 
 ## Tóm tắt
 

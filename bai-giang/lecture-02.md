@@ -1,6 +1,6 @@
 # Bài 02. Harness thực sự có nghĩa là gì
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-02-what-a-harness-actually-is/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-02-what-a-harness-actually-is/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-02-what-a-harness-actually-is/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-02-what-a-harness-actually-is/)
 
 ## Tóm tắt
 

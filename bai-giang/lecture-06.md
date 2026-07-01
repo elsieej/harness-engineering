@@ -1,6 +1,6 @@
 # Bài 06. Khởi tạo trước mỗi phiên agent
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-06-why-initialization-needs-its-own-phase/)
 
 ## Tóm tắt
 

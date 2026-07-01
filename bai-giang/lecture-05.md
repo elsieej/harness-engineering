@@ -1,6 +1,6 @@
 # Bài 05. Duy trì ngữ cảnh xuyên suốt các phiên
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-05-why-long-running-tasks-lose-continuity/)
 
 ## Tóm tắt
 

@@ -1,6 +1,6 @@
 # Bài 07. Vạch ranh giới tác vụ rõ ràng cho agent
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-07-why-agents-overreach-and-under-finish/)
 
 ## Tóm tắt
 

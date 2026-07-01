@@ -1,6 +1,6 @@
 # Bài 09. Ngăn chặn agent tuyên bố thành công quá sớm
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-09-why-agents-declare-victory-too-early/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-09-why-agents-declare-victory-too-early/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-09-why-agents-declare-victory-too-early/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-09-why-agents-declare-victory-too-early/)
 
 ## Tóm tắt
 

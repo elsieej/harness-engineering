@@ -1,6 +1,6 @@
 # Bài 11. Làm cho runtime của agent có thể quan sát được
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-11-why-observability-belongs-inside-the-harness/)
 
 ## Tóm tắt
 

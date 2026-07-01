@@ -1,6 +1,6 @@
 # Bài 12. Bàn giao sạch ở cuối mỗi phiên
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-12-why-every-session-must-leave-a-clean-state/)
 
 ## Tóm tắt
 

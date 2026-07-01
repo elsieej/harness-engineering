@@ -1,6 +1,6 @@
 # Tổng quan 6 dự án thực hành
 
-Cả 6 dự án đều tiến triển trên **cùng một ứng dụng**: một Electron knowledge-base app (React + TypeScript + Vite), nơi bạn import tài liệu, xem chi tiết, đánh index, và hỏi-đáp có trích dẫn (grounded Q&A). Mỗi dự án thêm một lớp harness mới lên trên sản phẩm của dự án trước. Bản dịch đầy đủ từng dự án: `../../learn-harness-engineering/docs/vi/projects/`. Code thật: `../../learn-harness-engineering/projects/project-0X/{starter,solution}`.
+Cả 6 dự án đều tiến triển trên **cùng một ứng dụng**: một Electron knowledge-base app (React + TypeScript + Vite), nơi bạn import tài liệu, xem chi tiết, đánh index, và hỏi-đáp có trích dẫn (grounded Q&A). Mỗi dự án thêm một lớp harness mới lên trên sản phẩm của dự án trước. Bản dịch đầy đủ từng dự án: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/tree/main/docs/vi/projects) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/projects/). Code thật (starter/solution từng dự án): [GitHub](https://github.com/walkinglabs/learn-harness-engineering/tree/main/projects).
 
 Stack chung: Node.js + TypeScript + React + Vite + Electron. Lệnh phổ biến trong mỗi `starter/` hoặc `solution/` (xem `package.json` của từng project để chắc chắn):
 

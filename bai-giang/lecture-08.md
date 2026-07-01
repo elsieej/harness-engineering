@@ -1,6 +1,6 @@
 # Bài 08. Sử dụng feature list để ràng buộc những gì agent làm
 
-Bản đầy đủ: [../../learn-harness-engineering/docs/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md](../../learn-harness-engineering/docs/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md)
+Bản đầy đủ: [GitHub](https://github.com/walkinglabs/learn-harness-engineering/blob/main/docs/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/index.md) · [Trang web chính thức](https://walkinglabs.github.io/learn-harness-engineering/vi/lectures/lecture-08-why-feature-lists-are-harness-primitives/)
 
 ## Tóm tắt
 
