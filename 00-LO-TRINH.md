@@ -51,7 +51,8 @@ vn-hoc-harness/
 │   ├── DANH-GIA.md          <- rubric tự chấm theo từng bài giảng/dự án
 │   ├── bai-giang/lecture-01/bai-tap.md ...  <- viết câu trả lời phần "Bài tập"
 │   └── du-an/project-01/nhat-ky.md ...      <- nhật ký so sánh baseline vs harness
-└── mau-tham-khao/          <- BÀI MẪU (chỉ xem SAU KHI đã tự làm ở thuc-hanh/) — xem README ở đó
+├── mau-tham-khao/          <- BÀI MẪU (chỉ xem SAU KHI đã tự làm ở thuc-hanh/) — xem README ở đó
+└── so-sanh-thuc-te/        <- Đối chiếu công cụ/harness thật ngoài đời với kiến thức từng bài giảng
 ```
 
 **Bắt đầu ngay**: mở `bai-giang/lecture-01.md`, đọc phần tóm tắt (5-10 phút). Rồi mở `thuc-hanh/README.md` để theo đúng quy trình 6 bước: làm bài tập → làm luyện prompt → tự chấm theo `thuc-hanh/DANH-GIA.md` → nhờ Claude review → sửa → đánh dấu hoàn thành ở bảng trên.
