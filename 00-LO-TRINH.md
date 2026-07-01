@@ -46,11 +46,12 @@ vn-hoc-harness/
 ├── bai-tap-prompt/
 │   ├── README.md           <- danh sách toàn bộ 12 bài luyện prompt
 │   └── answers/            <- nơi bạn viết câu trả lời để nhờ review
-└── thuc-hanh/              <- KHÔNG GIAN LÀM BÀI: bài tập + nhật ký dự án + rubric tự chấm
-    ├── README.md           <- quy trình từng bước, chi tiết hơn phần dưới đây
-    ├── DANH-GIA.md          <- rubric tự chấm theo từng bài giảng/dự án
-    ├── bai-giang/lecture-01/bai-tap.md ...  <- viết câu trả lời phần "Bài tập"
-    └── du-an/project-01/nhat-ky.md ...      <- nhật ký so sánh baseline vs harness
+├── thuc-hanh/              <- KHÔNG GIAN LÀM BÀI: bài tập + nhật ký dự án + rubric tự chấm
+│   ├── README.md           <- quy trình từng bước, chi tiết hơn phần dưới đây
+│   ├── DANH-GIA.md          <- rubric tự chấm theo từng bài giảng/dự án
+│   ├── bai-giang/lecture-01/bai-tap.md ...  <- viết câu trả lời phần "Bài tập"
+│   └── du-an/project-01/nhat-ky.md ...      <- nhật ký so sánh baseline vs harness
+└── mau-tham-khao/          <- BÀI MẪU (chỉ xem SAU KHI đã tự làm ở thuc-hanh/) — xem README ở đó
 ```
 
 **Bắt đầu ngay**: mở `bai-giang/lecture-01.md`, đọc phần tóm tắt (5-10 phút). Rồi mở `thuc-hanh/README.md` để theo đúng quy trình 6 bước: làm bài tập → làm luyện prompt → tự chấm theo `thuc-hanh/DANH-GIA.md` → nhờ Claude review → sửa → đánh dấu hoàn thành ở bảng trên.
